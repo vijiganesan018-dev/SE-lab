@@ -1,0 +1,15 @@
+Problem Statement: 
+The Hospital Management System (HMS) will interface with various modules and 
+hardware/software components, including:
+• Reception module for patient registration and inquiries
+• Doctor's console for viewing patient records, prescribing treatments, and scheduling
+• Patient console (web or kiosk-based) for appointment booking, billing status, and 
+medical history
+• Pharmacy system for issuing prescribed medicines
+• Laboratory module for sample collection, testing, and reporting
+• Billing system for processing all financial transactions
+• Admin dashboard for hospital staff to control the workflow and manage hospital 
+logistics
+• Emergency module for handling urgent admissions and critical cases
+• The HMS will also maintain secure and real-time communication between departments 
+and synchronize data with the hospital's centralized database.
